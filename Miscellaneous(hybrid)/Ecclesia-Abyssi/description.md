@@ -1,3 +1,5 @@
+# Description
+
 Moonlight spills through a fractured ceiling, painting silence across stone and ash.  
 A once‑sacred bench cradles a torn white robe; its fabric stirs slightly, though no wind moves.  
 

@@ -83,4 +83,31 @@ So we now know:
 - secret ≡ 120691705935694332047 (mod p1)
 - secret ≡ 55266033081063690396 (mod p2)
 
+### Step 4: Combining the residues with CRT
 
+We now have the secret modulo two distinct primes.  
+To recover the unique secret modulo \(p1 \times p2\), we use the Chinese Remainder Theorem (CRT):
+
+```python
+# ---- CRT COMBINATION ----
+N = p1 * p2
+M1, M2 = N // p1, N // p2
+inv1, inv2 = mod_inverse(M1, p1), mod_inverse(M2, p2)
+
+base = (s_p1 * M1 * inv1 + s_p2 * M2 * inv2) % N
+print(f"Flag: {base}")
+```
+This gives:
+
+```text
+Flag: 15586106816722605912563682414346023421575
+```
+
+### Step 5: Recovering the flag
+
+As indicated in the description, the flag format is the recovered secret encoded directly inside the flag braces.
+Therefore, the final flag is:
+
+```text
+DJSISACA{15586106816722605912563682414346023421575}
+```

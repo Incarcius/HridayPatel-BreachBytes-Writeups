@@ -1,1 +1,1 @@
-[https://mediatorial-albertha-ruttily.ngrok-free.dev/](https://mediatorial-albertha-ruttily.ngrok-free.dev/)
+[https://oracle-web-crypto.vercel.app/](https://oracle-web-crypto.vercel.app/)

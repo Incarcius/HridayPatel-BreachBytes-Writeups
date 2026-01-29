@@ -125,7 +125,6 @@ We can compute:
 - N = p × q  
 - phi(N) = (p - 1)(q - 1)  
 - d = e^{-1} mod phi(N)
-- \(\phi(N) = (p - 1)(q - 1)\)
 - Plaintext integer `pt_int = ct^d mod N`  
 - Finally, decode the bytes to a UTF‑8 string.
 

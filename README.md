@@ -14,7 +14,7 @@ This repository contains the challenges I authored for **BreachBytes 3.0**, an o
 
 A more detailed event description and responsibilities are in [`overview/event.md`](overview/event.md).
 
-| Repository Structure |
+## Repository Structure ##
 
 - `Cryptography/` – Classical and modern cryptography challenges (some with reversing or web components)
 - `Quantum-Cryptography/` – Quantum / quantum‑inspired cryptography

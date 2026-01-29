@@ -12,9 +12,6 @@ For a single qubit, the probability of measuring |1⟩ after a rotation by angle
 P(1) = sin^2(theta/2)
 \]
 
-Some rotations are meaningful, others are decoys.  
-Your task is to **reverse the observed probabilities**, recover hidden XOR relations between adjacent flag bytes, and use them to reconstruct the original flag.
-
 The flag that generated these quantum readings:
 
 - starts with `DJSISACA{`  

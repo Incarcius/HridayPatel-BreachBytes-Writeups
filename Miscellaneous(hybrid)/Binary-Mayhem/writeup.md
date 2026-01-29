@@ -17,6 +17,7 @@ formatted_text = "\n".join(lines)
 print(formatted_text)
 ```
 This will show us:
+
 <img width="571" height="316" alt="image" src="https://github.com/user-attachments/assets/c0ee4380-80f3-461b-90a9-4486b2921b8f" />
 
 ### Step 2: Decrypting the ciphertext

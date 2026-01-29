@@ -20,5 +20,4 @@ This folder contains the cryptography challenges I authored for BreachBytes 3.0.
   ECC over a composite modulus where the field splits into a 2016‑bit and a 32‑bit prime; players solve the discrete log on the small curve, then use partial key information to brute‑force the full private key.
 
 - **The Lost Cipher of Isla de Muerta** (hard)  
-  need to remake this
-
+  Two‑stage web oracle: first recover the key of an Affine‑style layer around AES‑CBC using chosen‑plaintext queries, then use it to craft inputs that flip the identity string and reveal the final FLAG_KEY.

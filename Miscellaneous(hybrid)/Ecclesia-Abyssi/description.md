@@ -5,7 +5,7 @@ On the far wall, faint markings scar the surface, deliberate and measured.
 The order that once gathered here left no scriptures behind, only shapes of faith etched in silence.  
 
 Some say they crossed the seas when their cause was lost, their truths carried in marks only the devoted would recall.  
-Not all messages are written in words — some are drawn in vows and shadows.
+Not all messages are written in words, some are drawn in vows and shadows.
 
 **Flag format:**
 

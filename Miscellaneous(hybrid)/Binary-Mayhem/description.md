@@ -1,6 +1,6 @@
 # Description
 
-Flag Format:
+**Flag Format:**
 
 ```text
 DJSISACA{FLAG_GOES_HERE}

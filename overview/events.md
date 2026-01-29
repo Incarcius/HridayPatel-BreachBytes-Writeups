@@ -30,7 +30,7 @@
   - Secret sharing reconstruction over two primes plus CRT.
   - Quantum measurement statistics followed by classical XOR‑based recovery of the flag.
 
-## Notes
+## Note:-
 
 This repository serves as the archived version of the challenges I personally authored.
 Infrastructure, scoring, and additional categories (if any) were handled by the broader BreachBytes 3.0 organizing team.

@@ -1,6 +1,6 @@
 # Quantum Cryptography Challenges
 
-This folder contains the quantum cryptography challenge I authored for BreachBytes 3.0, focused on exploiting the math behind single‑qubit rotations and measurement statistics.
+This folder contains the quantum cryptography challenge I authored for BreachBytes 3.0.
 
 ## Challenge list
 

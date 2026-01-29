@@ -2,6 +2,8 @@
 
 This repository contains the challenges I authored for **BreachBytes 3.0**, an on‑site Jeopardy‑style Capture The Flag competition organized by the ISACA student chapter at Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai, in October 2025.
 
+*After the competition, we hosted a [website](https://djsceisaca.tech/bb3) with all challenges along with writeups for learners who want to revisit or experience BreachBytes 3.0.*
+
 ## Event overview ##
 
 - Format: On‑site Jeopardy‑style CTF (single‑day, 12 hours)

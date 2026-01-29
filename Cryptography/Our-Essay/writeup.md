@@ -122,9 +122,10 @@ We are given:
 
 We can compute:
 
-- \(N = p \times q\)  
-- \(\varphi(N) = (p - 1)(q - 1)\)  
-- Private exponent \(d = e^{-1} \bmod \varphi(N)\)  
+- N = p × q  
+- phi(N) = (p - 1)(q - 1)  
+- d = e^{-1} mod phi(N)
+- \(\phi(N) = (p - 1)(q - 1)\)
 - Plaintext integer `pt_int = ct^d mod N`  
 - Finally, decode the bytes to a UTF‑8 string.
 

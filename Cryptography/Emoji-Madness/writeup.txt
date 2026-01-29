@@ -1,0 +1,34 @@
+"There exist short sentences which include all the alphabets." a quick google search will tell us this is hinting to pangrams investigating the first few links:
+1) https://www.rd.com/list/fun-pangrams/
+2) https://www.orchidsinternationalschool.com/blog/pangrams
+3) https://en.wikipedia.org/wiki/Pangram
+we basically get a list of possible pangrams and we can match the number of letters with the first sentence from the ciphertext and after matching a few, one of the more common pangram matches which is "The five boxing wizards jump quickly".
+after this we can create a key mapping each letter to an emoji like:
+A = 😂
+B = 😊
+C = 🤣
+D = 👌
+E = 😁
+F = 😢
+G = 🙌
+H = 😎
+I = 🤞
+J = 😍
+K = ❤️
+L = 🙂
+M = 😉
+N = 🤗
+O = 🤩
+P = 😮
+Q = 😆
+R = 😘
+S = 👍
+T = 😑
+U = 😒
+V = 😶
+W = 🫡
+X = 😣
+Y = 🤑
+Z = 😴
+using this we get the plaintext "THE FIVE BOXING WIZARDS JUMP QUICKLY. THE FLAG IS THE LAST WORD. THE FLAG IS PANGRAMSENTENCES." 
+we can now encapsulate it in DJSISACA{} to get the flag "DJSISACA{PANGRAMSENTENCES}".

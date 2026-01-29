@@ -9,7 +9,7 @@ You are given a sequence of measurement probabilities produced by a single‑qub
 For a single qubit, the probability of measuring \(|1\rangle\) after a rotation by angle \(\theta\) around the Y‑axis is:
 
 \[
-P(1) = sin^2(theta/2)
+P(1) = \sin^2(\theta/2)
 \]
 
 Some rotations are meaningful, others are decoys.  
